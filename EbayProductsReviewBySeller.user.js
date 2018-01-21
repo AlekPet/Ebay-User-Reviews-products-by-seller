@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         eBAY Product reviews
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/AlekPet/
 // @version      0.1
 // @description  Ebay check sellers
 // @author       AlekPet 2017
