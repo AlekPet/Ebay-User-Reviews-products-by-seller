@@ -5,6 +5,8 @@
 // @description  Ebay check sellers
 // @author       AlekPet 2017
 // @match        http*://www.ebay.com/*
+// @updateURL    https://github.com/AlekPet/Ebay-User-Reviews-products-by-seller/raw/master/EbayProductsReviewBySeller.user.js  
+// @downloadURL  https://github.com/AlekPet/Ebay-User-Reviews-products-by-seller/raw/master/EbayProductsReviewBySeller.user.js
 // @grant        none
 // ==/UserScript==
 
