@@ -7,6 +7,7 @@
 // @match        http*://www.ebay.com/*
 // @updateURL    https://github.com/AlekPet/Ebay-User-Reviews-products-by-seller/raw/master/EbayProductsReviewBySeller.user.js  
 // @downloadURL  https://github.com/AlekPet/Ebay-User-Reviews-products-by-seller/raw/master/EbayProductsReviewBySeller.user.js
+// @icon         https://raw.githubusercontent.com/AlekPet/Ebay-User-Reviews-products-by-seller/master/assets/images/icon.png
 // @grant        none
 // ==/UserScript==
 
