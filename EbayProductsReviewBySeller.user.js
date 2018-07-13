@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         eBAY Product reviews
 // @namespace    https://github.com/AlekPet/
-// @version      0.1
+// @version      0.2
 // @description  Ebay check sellers
 // @author       AlekPet 2017
 // @license     MIT;
 // @match        http*://www.ebay.com/*
-// @updateURL    https://github.com/AlekPet/Ebay-User-Reviews-products-by-seller/raw/master/EbayProductsReviewBySeller.user.js  
-// @downloadURL  https://github.com/AlekPet/Ebay-User-Reviews-products-by-seller/raw/master/EbayProductsReviewBySeller.user.js
+// @updateURL    https://raw.githubusercontent.com/AlekPet/Ebay-User-Reviews-products-by-seller/master/EbayProductsReviewBySeller.user.js  
+// @downloadURL  https://raw.githubusercontent.com/AlekPet/Ebay-User-Reviews-products-by-seller/master/EbayProductsReviewBySeller.user.js
 // @icon         https://raw.githubusercontent.com/AlekPet/Ebay-User-Reviews-products-by-seller/master/assets/images/icon.png
 // @run-at document-end
 // @noframes
