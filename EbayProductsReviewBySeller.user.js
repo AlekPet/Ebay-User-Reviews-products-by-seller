@@ -2,9 +2,9 @@
 // @name         eBAY Product reviews
 // @name:ru      eBAY Отзывы о товарах
 // @namespace    https://github.com/AlekPet/
-// @version      0.3
+// @version      0.3.1
 // @description  Ebay check sellers
-// @description  Ebay проверка продавцов
+// @description:ru  Ebay проверка продавцов
 // @author       AlekPet 2017
 // @copyright    2018, AlekPet (https://github.com/AlekPet)
 // @license     MIT; https://opensource.org/licenses/MIT
